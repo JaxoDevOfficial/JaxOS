@@ -1,0 +1,3 @@
+hi!
+this document just tells the script that this version is a beta version.
+if this file was deleted, the beta text on boot-up wouldn't show.
