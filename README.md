@@ -3,10 +3,9 @@
 <h2>Commands</h2>
 <h4>help</h4>
 <p>The default and easy "help" command.</p>
-<br />
+<br>
 <p>Usage: <em>help [command-name]</em></p>
-<br />
-<br />
+<br>
 <h4>clear</h4>
 <p>Clears the screen. It's as easy as that.</p>
 <br>
