@@ -10,4 +10,4 @@ Clears the screen. It's as easy as that.
 Usage: `clear`
 
 ## More documentation coming soon!
-Download at https://download.jaxo.dev/jaxos
+Download the OS [here](https://download.jaxo.dev/jaxos/)!
