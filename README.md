@@ -2,11 +2,11 @@
 A text-based operating system built using Python.
 ## Commands
 `help`
-The default and easy "help" command.__
+The default and easy "help" command.<br />
 Usage: `help [command-name]`
-__
+<br />
 `clear`
-Clears the screen. It's as easy as that.__
+Clears the screen. It's as easy as that.<br />
 Usage: `clear`
 
 ## More documentation coming soon!
