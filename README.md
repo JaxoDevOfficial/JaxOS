@@ -8,4 +8,5 @@
 <p>Clears the screen. It's as easy as that.</p>
 <p>Usage: <em>clear</em></p>
 <h2>More coming soon!</h2>
-<p>Download the OS <a href="https://download.jaxo.dev/jaxos/">here</a>.</p>
+<p>Download the OS in the Releases.</p>
+<h6>(The OS is still in the beta phase, so a download is not yet avaliable. Please check in later for a download in the releases.)</h6>
